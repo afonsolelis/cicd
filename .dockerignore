@@ -1,0 +1,7 @@
+# $DEL_BEGIN
+dockerfile*
+makefile
+Readme.md
+.pytest*
+.venv
+# $DEL_END
